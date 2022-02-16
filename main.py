@@ -177,5 +177,5 @@ while dead == False:
     else:
         print("You can't do that here")
 
-
+stay = input()
                 
